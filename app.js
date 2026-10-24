@@ -55,12 +55,22 @@ $("#favBtn").onclick = () => {
   saveFavs(); renderLines(); renderGrid();
 };
 function destroy() { if (hls) { try { hls.destroy(); } catch {} hls = null; } }
-function play(ch, lineIndex = 0, forceProxy = false) {
+async function play(ch, lineIndex = 0, forceProxy = false) {
   current = ch; destroy();
+  // If this channel has a rotating-token official source, refresh line 1
+  // at play time; on any failure fall back to the stored lines untouched.
+  let sources = [...ch.sources];
+  if (ch.refresh && ch.refresh.src && ch.refresh.id) {
+    try {
+      const r = await fetch(`/api/refresh?src=${encodeURIComponent(ch.refresh.src)}&id=${encodeURIComponent(ch.refresh.id)}`);
+      const j = await r.json();
+      if (j && typeof j.url === "string" && j.url.startsWith("http")) sources[0] = j.url;
+    } catch {}
+  }
   // attempt queue: each source direct, then same source via proxy
   queue = [];
-  for (let i = 0; i < ch.sources.length; i++) {
-    const s = ch.sources[i];
+  for (let i = 0; i < sources.length; i++) {
+    const s = sources[i];
     queue.push({ url: s, via: "直连", idx: i });
     queue.push({ url: proxy(s), via: "代理", idx: i });
   }
