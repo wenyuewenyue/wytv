@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-24-proxyfix",
- "count": 398,
+ "count": 400,
  "channels": [
   {
    "id": 1,
@@ -21,6 +21,8 @@
    "logo": "https://i.imgur.com/ILamhwU.png",
    "geo": false,
    "sources": [
+    "https://ldocctvcpudkshw.v.kcdnvip.com/ldocctvcpud/udrmldcctv2_1/index.m3u8?contentid=2820180516001&b=200-2100",
+    "https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-1600",
     "http://74.91.26.218:82/live/cctv2hd.m3u8"
    ]
   },
@@ -31,6 +33,8 @@
    "logo": "https://i.imgur.com/iFlkIuw.png",
    "geo": false,
    "sources": [
+    "https://ldocctvcpudkshw.v.kcdnvip.com/ldocctvcpud/udrmldcctv3_1/index.m3u8?contentid=2820180516001&b=200-1200",
+    "https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200",
     "http://74.91.26.218:82/live/cctv3hd.m3u8"
    ]
   },
@@ -88,6 +92,8 @@
    "logo": "https://i.imgur.com/CKcPMQC.png",
    "geo": false,
    "sources": [
+    "https://ldocctvcpudcnchw.v.cdn20.com/ldocctvcpud/udrmldcctv7_1/index.m3u8?contentid=2820180516001&b=200-2100",
+    "https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv7_1/index.m3u8?b=200-1600",
     "http://74.91.26.218:82/live/cctv7hd.m3u8"
    ]
   },
@@ -98,6 +104,8 @@
    "logo": "https://i.imgur.com/GyHaZ8X.png",
    "geo": false,
    "sources": [
+    "https://ldocctvcpudkshw.v.kcdnvip.com/ldocctvcpud/udrmldcctv8_1/index.m3u8?contentid=2820180516001&b=200-1200",
+    "https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?b=200-1200",
     "http://74.91.26.218:82/live/cctv8hd.m3u8",
     "http://183.196.25.171:808/hls/77/index.m3u8"
    ]
@@ -120,7 +128,9 @@
    "geo": false,
    "sources": [
     "https://xykt-fix.github.io/Y77.m3u8",
-    "https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3fa16d024630c2d091283f4080cc5244"
+    "https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3fa16d024630c2d091283f4080cc5244",
+    "https://ldocctvcpudkshw.v.kcdnvip.com/ldocctvcpud/udrmldcctv9_1/index.m3u8?contentid=2820180516001&b=200-2100",
+    "https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv9_1/index.m3u8?b=200-1600"
    ]
   },
   {
@@ -141,6 +151,8 @@
    "logo": "https://i.imgur.com/CjOWx7L.png",
    "geo": false,
    "sources": [
+    "https://ldocctvcpudkshw.v.kcdnvip.com/ldocctvcpud/udrmldcctv11_1/index.m3u8?contentid=2820180516001&b=200-2100",
+    "https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv11_1/index.m3u8?b=200-1600",
     "http://74.91.26.218:82/live/cctv11hd.m3u8",
     "http://183.196.25.171:808/hls/11/index.m3u8"
    ]
@@ -152,6 +164,8 @@
    "logo": "https://i.imgur.com/3yTuiOM.png",
    "geo": false,
    "sources": [
+    "https://ldocctvcpudcnchw.v.cdn20.com/ldocctvcpud/udrmldcctv12_1/index.m3u8?contentid=2820180516001&b=200-2100",
+    "https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv12_1/index.m3u8?b=200-1600",
     "http://74.91.26.218:82/live/cctv12hd.m3u8"
    ]
   },
@@ -162,6 +176,8 @@
    "logo": "https://i.imgur.com/6MTar6J.png",
    "geo": false,
    "sources": [
+    "https://ldncctvcpudcnchw.v.cdn20.com/ldncctvcpud/udrmldcctv13_1/index.m3u8?contentid=2820180516001&b=200-2100",
+    "https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-1600",
     "http://74.91.26.218:82/live/cctv13hd.m3u8",
     "http://go.bkpcp.top/mg/cctv13"
    ]
@@ -173,6 +189,8 @@
    "logo": "https://i.imgur.com/c5SXW7i.png",
    "geo": false,
    "sources": [
+    "https://ldocctvcpudcnchw.v.cdn20.com/ldocctvcpud/udrmldcctv14_1/index.m3u8?contentid=2820180516001&b=200-2100",
+    "https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv14_1/index.m3u8?b=200-1600",
     "http://74.91.26.218:82/live/cctv14hd.m3u8"
    ]
   },
@@ -183,6 +201,8 @@
    "logo": "https://i.imgur.com/CCV0eRG.png",
    "geo": false,
    "sources": [
+    "https://ldocctvcpudkshw.v.kcdnvip.com/ldocctvcpud/udrmldcctv15_1/index.m3u8?contentid=2820180516001&b=200-2100",
+    "https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv15_1/index.m3u8?b=200-1600",
     "http://74.91.26.218:82/live/cctv15hd.m3u8"
    ]
   },
@@ -203,6 +223,8 @@
    "logo": "https://i.imgur.com/jSQURxS.png",
    "geo": false,
    "sources": [
+    "https://ldocctvcpudkshw.v.kcdnvip.com/ldocctvcpud/udrmldcctv17_1/index.m3u8?contentid=2820180516001&b=200-2100",
+    "https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv17_1/index.m3u8?b=200-1600",
     "http://74.91.26.218:82/live/cctv17hd.m3u8",
     "http://183.196.25.171:808/hls/93/index.m3u8"
    ]
@@ -385,6 +407,8 @@
    "logo": "https://live.fanmingming.com/tv/三沙卫视.png",
    "geo": false,
    "sources": [
+    "https://livessws.hnntv.cn/live/ssws_260111hnntv.m3u8",
+    "https://livessws.hnntv.cn/live/ssws_260111hnntv.m3u8?_upt=403259c91792863918",
     "https://srs.ssws.tv/video/sstv-10/index.m3u8"
    ]
   },
@@ -395,6 +419,7 @@
    "logo": "https://live.fanmingming.com/tv/东南卫视.png",
    "geo": false,
    "sources": [
+    "https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=f9a90eee1792867471",
     "https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=e9538bd61792388927"
    ]
   },
@@ -549,6 +574,7 @@
    "logo": "https://live.fanmingming.com/tv/海南卫视.png",
    "geo": false,
    "sources": [
+    "https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=1a68f02e1792863915",
     "https://livelyws.chinamcache.com/lyws/zb03.m3u8"
    ]
   },
@@ -559,6 +585,7 @@
    "logo": "https://live.fanmingming.com/tv/海峡卫视.png",
    "geo": false,
    "sources": [
+    "https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=d1ed79741792867472",
     "https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=e9538bd61792388927"
    ]
   },
@@ -4008,6 +4035,27 @@
    "logo": "https://i.imgur.com/gBbLyqh.png",
    "id": 398,
    "geo": false
+  },
+  {
+   "id": 399,
+   "name": "CCTV-5 体育",
+   "group": "央视",
+   "logo": "",
+   "geo": false,
+   "sources": [
+    "https://mlivewbndkshw.v.kcdnvip.com/mlivewbnd/mlive44_2/index.m3u8",
+    "https://mlivewbndkshw.v.kcdnvip.com/mlivewbnd/mlive44_2/index.m3u8"
+   ]
+  },
+  {
+   "id": 400,
+   "name": "澳门莲花卫视",
+   "group": "卫视",
+   "logo": "",
+   "geo": false,
+   "sources": [
+    "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8"
+   ]
   }
  ]
 }
