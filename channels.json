@@ -1,0 +1,3947 @@
+{
+ "generated": "2026-10-24",
+ "count": 392,
+ "channels": [
+  {
+   "id": 1,
+   "name": "CCTV-1 综合",
+   "group": "央视",
+   "logo": "https://i.imgur.com/TpA3cUl.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv1hd.m3u8",
+    "http://69.30.245.50/live/cctv1.m3u8"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "CCTV-2 财经",
+   "group": "央视",
+   "logo": "https://i.imgur.com/ILamhwU.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv2hd.m3u8"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "CCTV-3 综艺",
+   "group": "央视",
+   "logo": "https://i.imgur.com/iFlkIuw.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv3hd.m3u8"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "CCTV-4 中文国际",
+   "group": "央视",
+   "logo": "https://i.imgur.com/gBbLyqh.png",
+   "geo": false,
+   "sources": [
+    "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+    "http://74.91.26.218:82/live/cctv4hd.m3u8",
+    "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+    "https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1792900800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-4cf573df1e752b9f5779c060acbbe2bf&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "CCTV-4K 超高清",
+   "group": "央视",
+   "logo": "https://i.imgur.com/fxusYlX.png",
+   "geo": false,
+   "sources": [
+    "http://198.204.240.250:82/live/cctv4k.m3u8",
+    "https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1792900800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b56c8995ad27ac2eedfe017134c9afa3&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "CCTV-5+ 体育赛事",
+   "group": "央视",
+   "logo": "https://i.imgur.com/OK8mdJV.png",
+   "geo": false,
+   "sources": [
+    "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "CCTV-6 电影",
+   "group": "央视",
+   "logo": "https://i.imgur.com/rFiaef7.png",
+   "geo": true,
+   "sources": [
+    "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
+    "http://69.30.245.50/live/cctv6.m3u8",
+    "https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "CCTV-7 国防军事",
+   "group": "央视",
+   "logo": "https://i.imgur.com/CKcPMQC.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv7hd.m3u8"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "CCTV-8 电视剧",
+   "group": "央视",
+   "logo": "https://i.imgur.com/GyHaZ8X.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv8hd.m3u8",
+    "http://183.196.25.171:808/hls/77/index.m3u8"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "CCTV-8K 超高清",
+   "group": "央视",
+   "logo": "https://i.imgur.com/fxVPMJF.png",
+   "geo": false,
+   "sources": [
+    "http://192.151.150.154/live/cctv8k.m3u8"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "CCTV-9 纪录",
+   "group": "央视",
+   "logo": "https://i.imgur.com/3tivvMm.png",
+   "geo": false,
+   "sources": [
+    "https://xykt-fix.github.io/Y77.m3u8",
+    "https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3fa16d024630c2d091283f4080cc5244"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "CCTV-10 科教",
+   "group": "央视",
+   "logo": "https://i.imgur.com/sSSO7UD.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv10hd.m3u8"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "CCTV-11 戏曲",
+   "group": "央视",
+   "logo": "https://i.imgur.com/CjOWx7L.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv11hd.m3u8",
+    "http://183.196.25.171:808/hls/11/index.m3u8"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "CCTV-12 社会与法",
+   "group": "央视",
+   "logo": "https://i.imgur.com/3yTuiOM.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv12hd.m3u8"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "CCTV-13 新闻",
+   "group": "央视",
+   "logo": "https://i.imgur.com/6MTar6J.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv13hd.m3u8",
+    "http://go.bkpcp.top/mg/cctv13"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "CCTV-14 少儿",
+   "group": "央视",
+   "logo": "https://i.imgur.com/c5SXW7i.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv14hd.m3u8"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "CCTV-15 音乐",
+   "group": "央视",
+   "logo": "https://i.imgur.com/CCV0eRG.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv15hd.m3u8"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "CCTV-16 奥林匹克",
+   "group": "央视",
+   "logo": "https://i.imgur.com/ZzV6JQp.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv16hd.m3u8"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "CCTV-17 农业农村",
+   "group": "央视",
+   "logo": "https://i.imgur.com/jSQURxS.png",
+   "geo": false,
+   "sources": [
+    "http://74.91.26.218:82/live/cctv17hd.m3u8",
+    "http://183.196.25.171:808/hls/93/index.m3u8"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "CCTV+ 1",
+   "group": "央视",
+   "logo": "https://i.imgur.com/U8d4Is6.png",
+   "geo": false,
+   "sources": [
+    "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "CCTV+ 2",
+   "group": "央视",
+   "logo": "https://i.imgur.com/qSg862A.png",
+   "geo": false,
+   "sources": [
+    "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "CCTV-Billiards",
+   "group": "央视",
+   "logo": "https://i.imgur.com/WK3keM9.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "CCTV-Culture of Quality",
+   "group": "央视",
+   "logo": "https://i.imgur.com/Paig8gG.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "CCTV-Golf & Tennis",
+   "group": "央视",
+   "logo": "https://i.imgur.com/iqJJTmH.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "CCTV-Health",
+   "group": "央视",
+   "logo": "https://i.imgur.com/AzpRtCz.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "CCTV-Nostalgia Theater",
+   "group": "央视",
+   "logo": "https://i.imgur.com/TVs9PBc.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "CCTV-Storm Football",
+   "group": "央视",
+   "logo": "https://i.imgur.com/Fy6HkX0.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "CCTV-Storm Music",
+   "group": "央视",
+   "logo": "https://i.imgur.com/IiiRmrf.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "CCTV-Storm Theater",
+   "group": "央视",
+   "logo": "https://i.imgur.com/rEttkKm.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "CCTV-The First Theater",
+   "group": "央视",
+   "logo": "https://i.imgur.com/eFxD3hq.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "CCTV-Weapon & Technology",
+   "group": "央视",
+   "logo": "https://i.imgur.com/QlF96eS.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "CCTV-Women's Fashion",
+   "group": "央视",
+   "logo": "https://i.imgur.com/FVbP0aP.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "CCTV-World Geography",
+   "group": "央视",
+   "logo": "https://i.imgur.com/V2ncOXi.png",
+   "geo": false,
+   "sources": [
+    "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Bingtuan Satellite TV",
+   "group": "卫视",
+   "logo": "https://i.imgur.com/Y4qxDqz.png",
+   "geo": false,
+   "sources": [
+    "http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Yanbian Satellite TV",
+   "group": "卫视",
+   "logo": "https://i.imgur.com/UKKsnhD.png",
+   "geo": false,
+   "sources": [
+    "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Yunnan Satellite TV",
+   "group": "卫视",
+   "logo": "https://www.tvchinese.net/uploads/tv/yunnantv.jpg",
+   "geo": false,
+   "sources": [
+    "https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "三沙卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/三沙卫视.png",
+   "geo": false,
+   "sources": [
+    "https://srs.ssws.tv/video/sstv-10/index.m3u8"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "东南卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/东南卫视.png",
+   "geo": false,
+   "sources": [
+    "https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=e9538bd61792388927"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "东方卫视",
+   "group": "卫视",
+   "logo": "https://i.imgur.com/WqM6xnF.png",
+   "geo": false,
+   "sources": [
+    "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "云南卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/云南卫视.png",
+   "geo": false,
+   "sources": [
+    "http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "北京卫视",
+   "group": "卫视",
+   "logo": "https://i.imgur.com/vsktAez.png",
+   "geo": false,
+   "sources": [
+    "http://ivi.bupt.edu.cn/hls/btv1.m3u8",
+    "http://go.bkpcp.top/mg/bjws"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "四川卫视",
+   "group": "卫视",
+   "logo": "https://i.imgur.com/r5xivih.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "天津卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/天津卫视.png",
+   "geo": false,
+   "sources": [
+    "https://piccpndks.v.kcdnvip.com/audio/tianjin_2/index.m3u8"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "宁夏卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/宁夏卫视.png",
+   "geo": false,
+   "sources": [
+    "https://livepgc.cmc.ningxiahuangheyun.com/live/nxgg1M.m3u8"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "安徽卫视",
+   "group": "卫视",
+   "logo": "https://i.imgur.com/gDn101f.png",
+   "geo": false,
+   "sources": [
+    "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "山东卫视",
+   "group": "卫视",
+   "logo": "https://www.tvchinese.net/uploads/tv/shandongtv.jpg",
+   "geo": false,
+   "sources": [
+    "http://125.210.152.18:9090/live/SDWSHD_H265.m3u8"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "山西卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/山西卫视.png",
+   "geo": false,
+   "sources": [
+    "https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/w1tlne0.m3u8"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "广东卫视",
+   "group": "卫视",
+   "logo": "https://parco-zh.github.io/demo/guangdong.jpg",
+   "geo": false,
+   "sources": [
+    "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "江苏卫视",
+   "group": "卫视",
+   "logo": "",
+   "geo": false,
+   "sources": [
+    "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "江西卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/江西卫视.png",
+   "geo": false,
+   "sources": [
+    "https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_taoci.m3u8?t=1792803144&token=1d16fc5a-5f09-4fda-a54e-74ed2d0cf0f3&d=c3828b8aec6d4dc4827fb2bb8c45a51e"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "河南卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/河南卫视.png",
+   "geo": false,
+   "sources": [
+    "http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=116725618e01a58a8dda8bc63e6361c6&wsTime=1792393317"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "浙江卫视",
+   "group": "卫视",
+   "logo": "https://i.imgur.com/NFFQNhq.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8",
+    "http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1792724570-9aee3d697ed2da66093f27d871240c8d-0-a8acd5863800fa050d489432df111e08"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "海南卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/海南卫视.png",
+   "geo": false,
+   "sources": [
+    "https://livelyws.chinamcache.com/lyws/zb03.m3u8"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "海峡卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/海峡卫视.png",
+   "geo": false,
+   "sources": [
+    "https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=e9538bd61792388927"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "深圳卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/深圳卫视.png",
+   "geo": false,
+   "sources": [
+    "https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8",
+    "https://sztv-hls.sztv.com.cn/BJ5u5k2/500/t4wBn50.m3u8?sign=9da15712132e2a07d41f6d3a3890ceb7&t=6adc466c"
+   ]
+  },
+  {
+   "id": 56,
+   "name": "湖南卫视",
+   "group": "卫视",
+   "logo": "https://parco-zh.github.io/demo/HNWS.png",
+   "geo": false,
+   "sources": [
+    "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+    "http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8"
+   ]
+  },
+  {
+   "id": 57,
+   "name": "澳门卫视",
+   "group": "卫视",
+   "logo": "https://i.imgur.com/qDI3aMp.png",
+   "geo": false,
+   "sources": [
+    "http://61.244.22.4/ch1/ch1.live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 58,
+   "name": "重庆卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/重庆卫视.png",
+   "geo": false,
+   "sources": [
+    "http://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202610242106/app_2/_definst_/ls_2.stream/chunklist.m3u8"
+   ]
+  },
+  {
+   "id": 59,
+   "name": "陕西卫视",
+   "group": "卫视",
+   "logo": "https://live.fanmingming.com/tv/陕西卫视.png",
+   "geo": false,
+   "sources": [
+    "http://stream.snrtv.com/sxbc-star-fhiwyR.m3u8"
+   ]
+  },
+  {
+   "id": 60,
+   "name": "8TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Jkx9W88.png",
+   "geo": false,
+   "sources": [
+    "http://cdn6.163189.xyz/163189/8tv"
+   ]
+  },
+  {
+   "id": 61,
+   "name": "ABN China",
+   "group": "地方",
+   "logo": "https://i.imgur.com/zagVLQH.png",
+   "geo": false,
+   "sources": [
+    "https://mediaserver.abnvideos.com/streams/abnchina.m3u8"
+   ]
+  },
+  {
+   "id": 62,
+   "name": "Ando TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/EpTsFVu.png",
+   "geo": false,
+   "sources": [
+    "http://play.kankanlive.com/live/1711956137852982.m3u8"
+   ]
+  },
+  {
+   "id": 63,
+   "name": "Angel TV Chinese",
+   "group": "地方",
+   "logo": "https://i.imgur.com/qKLEGU7.png",
+   "geo": false,
+   "sources": [
+    "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 64,
+   "name": "BSTV (Hong Kong)",
+   "group": "地方",
+   "logo": "https://i.imgur.com/GVYSSgm.png",
+   "geo": false,
+   "sources": [
+    "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 65,
+   "name": "Baicheng TV",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/baicheng.jpg",
+   "geo": true,
+   "sources": [
+    "https://stream2.jlntv.cn/baicheng1/sd/live.m3u8"
+   ]
+  },
+  {
+   "id": 66,
+   "name": "Beautiful Life TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/hkwcBM9.png",
+   "geo": false,
+   "sources": [
+    "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 67,
+   "name": "Bloomberg TV Asia",
+   "group": "地方",
+   "logo": "https://i.imgur.com/OuogLHx.png",
+   "geo": false,
+   "sources": [
+    "http://210.210.155.37/dr9445/h/h03/index.m3u8"
+   ]
+  },
+  {
+   "id": 68,
+   "name": "Bread TV",
+   "group": "地方",
+   "logo": "https://bread-tv.com/uploads/allimg/241202/9_1836542371.png",
+   "geo": false,
+   "sources": [
+    "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+   ]
+  },
+  {
+   "id": 69,
+   "name": "CGNTV Chinese",
+   "group": "地方",
+   "logo": "https://i.imgur.com/bPoPAbR.png",
+   "geo": false,
+   "sources": [
+    "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8"
+   ]
+  },
+  {
+   "id": 70,
+   "name": "CGTN Global Biz",
+   "group": "地方",
+   "logo": "https://i.imgur.com/qBmomnF.png",
+   "geo": false,
+   "sources": [
+    "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
+   ]
+  },
+  {
+   "id": 71,
+   "name": "CHC Home Theater",
+   "group": "地方",
+   "logo": "https://i.imgur.com/AwBldBE.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8"
+   ]
+  },
+  {
+   "id": 72,
+   "name": "CND Film Discovery Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/2FJfPDx.png",
+   "geo": false,
+   "sources": [
+    "http://125.210.152.18:9090/live/FXZL_750.m3u8"
+   ]
+  },
+  {
+   "id": 73,
+   "name": "CTi News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/fEUmRST.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8"
+   ]
+  },
+  {
+   "id": 74,
+   "name": "CTi Variety",
+   "group": "地方",
+   "logo": "https://i.imgur.com/tqsKObw.png",
+   "geo": false,
+   "sources": [
+    "http://23.237.10.66:16372"
+   ]
+  },
+  {
+   "id": 75,
+   "name": "Channel 8 (Singapore)",
+   "group": "地方",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/960px-Mediacorp_Channel_8_2023.svg.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.qd.je/163189/ch8"
+   ]
+  },
+  {
+   "id": 76,
+   "name": "Channel U",
+   "group": "地方",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/960px-Mediacorp_Channel_U_2023.svg.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.qd.je/163189/chu"
+   ]
+  },
+  {
+   "id": 77,
+   "name": "Chaozhou Public Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/8YIrgB7.png",
+   "geo": false,
+   "sources": [
+    "http://113.64.146.48:1688/hls/4/index.m3u8"
+   ]
+  },
+  {
+   "id": 78,
+   "name": "China Travel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/vSgY3CD.png",
+   "geo": false,
+   "sources": [
+    "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
+   ]
+  },
+  {
+   "id": 79,
+   "name": "China Weather Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/syNwDpg.png",
+   "geo": false,
+   "sources": [
+    "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8"
+   ]
+  },
+  {
+   "id": 80,
+   "name": "Chuzhou Public Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/9JfZJRv.png",
+   "geo": false,
+   "sources": [
+    "http://live.cztv.cc:85/live/ggpd.m3u8"
+   ]
+  },
+  {
+   "id": 81,
+   "name": "Chuzhou Science & Education Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/9JfZJRv.png",
+   "geo": false,
+   "sources": [
+    "http://live.cztv.cc:85/live/sjpd.m3u8"
+   ]
+  },
+  {
+   "id": 82,
+   "name": "CreaTV Channel 15",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Lwzio0H.png",
+   "geo": false,
+   "sources": [
+    "https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8"
+   ]
+  },
+  {
+   "id": 83,
+   "name": "DAAI TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/YC7JCHo.png",
+   "geo": false,
+   "sources": [
+    "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8"
+   ]
+  },
+  {
+   "id": 84,
+   "name": "DW",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8"
+   ]
+  },
+  {
+   "id": 85,
+   "name": "DaAi 1",
+   "group": "地方",
+   "logo": "https://i.imgur.com/KdJi9af.png",
+   "geo": false,
+   "sources": [
+    "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+   ]
+  },
+  {
+   "id": 86,
+   "name": "DaAi 2",
+   "group": "地方",
+   "logo": "https://i.imgur.com/KdJi9af.png",
+   "geo": false,
+   "sources": [
+    "http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8",
+    "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+   ]
+  },
+  {
+   "id": 87,
+   "name": "Dali TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/pFIMLsA.png",
+   "geo": false,
+   "sources": [
+    "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+   ]
+  },
+  {
+   "id": 88,
+   "name": "Discovering China",
+   "group": "地方",
+   "logo": "https://i.imgur.com/wr2bLaA.png",
+   "geo": false,
+   "sources": [
+    "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8"
+   ]
+  },
+  {
+   "id": 89,
+   "name": "Documentary Humanities Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/CEcNWsE.png",
+   "geo": false,
+   "sources": [
+    "http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8"
+   ]
+  },
+  {
+   "id": 90,
+   "name": "Dunhuang TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/RpGKOQd.jpg",
+   "geo": false,
+   "sources": [
+    "http://117.156.28.119/270000001111/1110000028/index.m3u8"
+   ]
+  },
+  {
+   "id": 91,
+   "name": "EBC YOYO",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8"
+   ]
+  },
+  {
+   "id": 92,
+   "name": "ET Mall 60",
+   "group": "地方",
+   "logo": "https://i.imgur.com/jkOgbLw.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8"
+   ]
+  },
+  {
+   "id": 93,
+   "name": "FTV (Taiwan)",
+   "group": "地方",
+   "logo": "https://i.imgur.com/q8ahtbT.png",
+   "geo": false,
+   "sources": [
+    "http://seb.sason.top/ptv/ftv.php?id=ms"
+   ]
+  },
+  {
+   "id": 94,
+   "name": "FTV News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/fEUmRST.png",
+   "geo": false,
+   "sources": [
+    "https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8"
+   ]
+  },
+  {
+   "id": 95,
+   "name": "FTV One",
+   "group": "地方",
+   "logo": "https://i.imgur.com/HBT2o0I.png",
+   "geo": false,
+   "sources": [
+    "http://seb.sason.top/ptv/ftv.php?id=dy"
+   ]
+  },
+  {
+   "id": 96,
+   "name": "Fengshang Shopping Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/WNhfnUR.png",
+   "geo": false,
+   "sources": [
+    "http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw"
+   ]
+  },
+  {
+   "id": 97,
+   "name": "Fujian Comprehensive Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/rePTGa6.png",
+   "geo": false,
+   "sources": [
+    "http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88"
+   ]
+  },
+  {
+   "id": 98,
+   "name": "Genius Go Go Go",
+   "group": "地方",
+   "logo": "https://i.imgur.com/GGdnGqH.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8"
+   ]
+  },
+  {
+   "id": 99,
+   "name": "Global News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Q1Mrvjj.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"
+   ]
+  },
+  {
+   "id": 100,
+   "name": "God Stands Kids Club TV Chinese",
+   "group": "地方",
+   "logo": "https://i.imgur.com/FxDBbpz.jpeg",
+   "geo": false,
+   "sources": [
+    "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
+   ]
+  },
+  {
+   "id": 101,
+   "name": "God Stands TV Chinese",
+   "group": "地方",
+   "logo": "https://i.imgur.com/EO6cYUI.png",
+   "geo": false,
+   "sources": [
+    "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8"
+   ]
+  },
+  {
+   "id": 102,
+   "name": "Golden Eagle Cartoon",
+   "group": "地方",
+   "logo": "https://i.imgur.com/xfVHrKQ.png",
+   "geo": false,
+   "sources": [
+    "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8"
+   ]
+  },
+  {
+   "id": 103,
+   "name": "Good",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k28Kc3o.png",
+   "geo": false,
+   "sources": [
+    "https://live.streamingfast.net/osmflivech1.m3u8"
+   ]
+  },
+  {
+   "id": 104,
+   "name": "Good 2",
+   "group": "地方",
+   "logo": "https://i.imgur.com/YxFRoft.png",
+   "geo": false,
+   "sources": [
+    "https://live.streamingfast.net/osmflivech2.m3u8"
+   ]
+  },
+  {
+   "id": 105,
+   "name": "Good TV (Taiwan)",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k28Kc3o.png",
+   "geo": false,
+   "sources": [
+    "https://live.streamingfast.net/osmflivech1.m3u8"
+   ]
+  },
+  {
+   "id": 106,
+   "name": "Guangdong TV America",
+   "group": "地方",
+   "logo": "https://i.imgur.com/7J4qGjA.png",
+   "geo": false,
+   "sources": [
+    "https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8"
+   ]
+  },
+  {
+   "id": 107,
+   "name": "Guangxi Variety & Travel Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/gxzypd.jpg",
+   "geo": false,
+   "sources": [
+    "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0"
+   ]
+  },
+  {
+   "id": 108,
+   "name": "Guangzhou TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/ff3KQXp.png",
+   "geo": false,
+   "sources": [
+    "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8"
+   ]
+  },
+  {
+   "id": 109,
+   "name": "Guizhou TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/nkcKCdr.png",
+   "geo": false,
+   "sources": [
+    "http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU"
+   ]
+  },
+  {
+   "id": 110,
+   "name": "HKS",
+   "group": "地方",
+   "logo": "https://i.imgur.com/UhwlxwL.png",
+   "geo": false,
+   "sources": [
+    "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 111,
+   "name": "Hakka TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/1CdGSbU.png",
+   "geo": false,
+   "sources": [
+    "https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8"
+   ]
+  },
+  {
+   "id": 112,
+   "name": "Hebei TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Z5Ppzbi.png",
+   "geo": false,
+   "sources": [
+    "https://event.pull.hebtv.com/live/live101.m3u8"
+   ]
+  },
+  {
+   "id": 113,
+   "name": "Heilongjiang TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/9fj1uba.png",
+   "geo": false,
+   "sources": [
+    "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8"
+   ]
+  },
+  {
+   "id": 114,
+   "name": "Hezheng TV",
+   "group": "地方",
+   "logo": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
+   "geo": false,
+   "sources": [
+    "http://117.156.28.119/270000001111/1110000149/index.m3u8"
+   ]
+  },
+  {
+   "id": 115,
+   "name": "High Channel TV",
+   "group": "地方",
+   "logo": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
+   "geo": false,
+   "sources": [
+    "http://117.156.28.119/270000001111/1110000146/index.m3u8"
+   ]
+  },
+  {
+   "id": 116,
+   "name": "Hong Kong International Business Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/jaIdkbz.png",
+   "geo": true,
+   "sources": [
+    "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8"
+   ]
+  },
+  {
+   "id": 117,
+   "name": "Hunan Politics & Law Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/cszfpd.jpg",
+   "geo": true,
+   "sources": [
+    "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8"
+   ]
+  },
+  {
+   "id": 118,
+   "name": "Hunan Womens Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/csnxpd.jpg",
+   "geo": true,
+   "sources": [
+    "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8"
+   ]
+  },
+  {
+   "id": 119,
+   "name": "Indigenous TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/vmk4F9u.png",
+   "geo": false,
+   "sources": [
+    "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 120,
+   "name": "JP1",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8"
+   ]
+  },
+  {
+   "id": 121,
+   "name": "Jade",
+   "group": "地方",
+   "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",
+   "geo": false,
+   "sources": [
+    "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8"
+   ]
+  },
+  {
+   "id": 122,
+   "name": "Jiangsu City Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jscs.jpg",
+   "geo": false,
+   "sources": [
+    "http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS"
+   ]
+  },
+  {
+   "id": 123,
+   "name": "Jiangsu Public & News Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jsgg.jpg",
+   "geo": false,
+   "sources": [
+    "http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG"
+   ]
+  },
+  {
+   "id": 124,
+   "name": "Jiangsu Variety Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jszy.jpg",
+   "geo": false,
+   "sources": [
+    "http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY"
+   ]
+  },
+  {
+   "id": 125,
+   "name": "Jiangxi Children's Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jxtv6.jpg",
+   "geo": false,
+   "sources": [
+    "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8"
+   ]
+  },
+  {
+   "id": 126,
+   "name": "Jiangxi City Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jxds.jpg",
+   "geo": false,
+   "sources": [
+    "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8"
+   ]
+  },
+  {
+   "id": 127,
+   "name": "Jiangxi Economy & Life Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jxtv3.jpg",
+   "geo": false,
+   "sources": [
+    "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8"
+   ]
+  },
+  {
+   "id": 128,
+   "name": "Jiangxi Public & Agriculture Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jxgg.jpg",
+   "geo": false,
+   "sources": [
+    "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8"
+   ]
+  },
+  {
+   "id": 129,
+   "name": "Jiangxi TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/RrLthH3.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8"
+   ]
+  },
+  {
+   "id": 130,
+   "name": "Jilin City Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jldspd.jpg",
+   "geo": false,
+   "sources": [
+    "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8"
+   ]
+  },
+  {
+   "id": 131,
+   "name": "Jilin Lifestyle Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jlshpd.jpg",
+   "geo": false,
+   "sources": [
+    "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8"
+   ]
+  },
+  {
+   "id": 132,
+   "name": "Jilin Rural Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jlxcpd.jpg",
+   "geo": false,
+   "sources": [
+    "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8"
+   ]
+  },
+  {
+   "id": 133,
+   "name": "KIX",
+   "group": "地方",
+   "logo": "https://i.imgur.com/zWcUAdb.png",
+   "geo": false,
+   "sources": [
+    "https://freem3u.xyz/api/live/play.m3u8?vid=9901",
+    "http://210.210.155.37/dr9445/h/h07/index.m3u8"
+   ]
+  },
+  {
+   "id": 134,
+   "name": "KPop",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8"
+   ]
+  },
+  {
+   "id": 135,
+   "name": "Kangba TV",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/kangbatv.jpg",
+   "geo": false,
+   "sources": [
+    "http://110.185.237.164:8888/hls/30/index.m3u8"
+   ]
+  },
+  {
+   "id": 136,
+   "name": "LLBN TV Chinese",
+   "group": "地方",
+   "logo": "https://i.imgur.com/C0jUDMn.png",
+   "geo": false,
+   "sources": [
+    "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8"
+   ]
+  },
+  {
+   "id": 137,
+   "name": "Lanzhou Culture & Tourism Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/lanzhou.jpg",
+   "geo": false,
+   "sources": [
+    "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8"
+   ]
+  },
+  {
+   "id": 138,
+   "name": "Liangshan TV",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/liangshantv.jpg",
+   "geo": false,
+   "sources": [
+    "http://118.122.2.29:9999/hls/47/index.m3u8"
+   ]
+  },
+  {
+   "id": 139,
+   "name": "Liaoning TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/XRfeNTd.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8"
+   ]
+  },
+  {
+   "id": 140,
+   "name": "Love Nature",
+   "group": "地方",
+   "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+   "geo": false,
+   "sources": [
+    "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+    "https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8"
+   ]
+  },
+  {
+   "id": 141,
+   "name": "Luxe TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/24ehonx.png",
+   "geo": false,
+   "sources": [
+    "http://103.154.3.101:5001/live/1736.m3u8"
+   ]
+  },
+  {
+   "id": 142,
+   "name": "MOMO TV",
+   "group": "地方",
+   "logo": "https://m.momoshop.com.tw/img/message.png",
+   "geo": false,
+   "sources": [
+    "http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8"
+   ]
+  },
+  {
+   "id": 143,
+   "name": "Momo 1",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8"
+   ]
+  },
+  {
+   "id": 144,
+   "name": "Momo 2",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8"
+   ]
+  },
+  {
+   "id": 145,
+   "name": "NTD TV",
+   "group": "地方",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
+   "geo": false,
+   "sources": [
+    "https://ntd02.akamaized.net/HD-NY/index.m3u8"
+   ]
+  },
+  {
+   "id": 146,
+   "name": "NTD TV Asia-Pacific",
+   "group": "地方",
+   "logo": "https://i.imgur.com/iyFXcDy.png",
+   "geo": false,
+   "sources": [
+    "https://live.ntdtv.com/aplive200/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 147,
+   "name": "NTD TV Canada",
+   "group": "地方",
+   "logo": "https://i.imgur.com/iyFXcDy.png",
+   "geo": false,
+   "sources": [
+    "https://live.ntdtv.com/mllive860/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 148,
+   "name": "NTD TV Canada West",
+   "group": "地方",
+   "logo": "https://i.imgur.com/iyFXcDy.png",
+   "geo": false,
+   "sources": [
+    "https://live.ntdtv.com/cwlive220/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 149,
+   "name": "NTD TV China",
+   "group": "地方",
+   "logo": "https://i.imgur.com/OpWTWdh.png",
+   "geo": false,
+   "sources": [
+    "https://live.ntdtv.com/cnlive900/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 150,
+   "name": "NTD TV West",
+   "group": "地方",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
+   "geo": false,
+   "sources": [
+    "https://ntd02.akamaized.net/HD-LA/index.m3u8"
+   ]
+  },
+  {
+   "id": 151,
+   "name": "NU",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8"
+   ]
+  },
+  {
+   "id": 152,
+   "name": "NU2",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8"
+   ]
+  },
+  {
+   "id": 153,
+   "name": "Nanchang News & Generalist Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/nctv1.jpg",
+   "geo": false,
+   "sources": [
+    "https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8"
+   ]
+  },
+  {
+   "id": 154,
+   "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/kpsjahG.png",
+   "geo": false,
+   "sources": [
+    "http://1.24.190.98:10080/hls/40/index.m3u8"
+   ]
+  },
+  {
+   "id": 155,
+   "name": "Ningxia Satellite Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/nUQE4Ib.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8"
+   ]
+  },
+  {
+   "id": 156,
+   "name": "PTS 3",
+   "group": "地方",
+   "logo": "https://i.imgur.com/I6sVDDt.png",
+   "geo": false,
+   "sources": [
+    "http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv"
+   ]
+  },
+  {
+   "id": 157,
+   "name": "Peace TV Chinese",
+   "group": "地方",
+   "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",
+   "geo": false,
+   "sources": [
+    "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8"
+   ]
+  },
+  {
+   "id": 158,
+   "name": "Pet Club TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/ykPNNwQ.png",
+   "geo": false,
+   "sources": [
+    "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 159,
+   "name": "Phoenix Chinese Channel",
+   "group": "地方",
+   "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+   "geo": false,
+   "sources": [
+    "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+   ]
+  },
+  {
+   "id": 160,
+   "name": "QTV-2",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/qdtv2.jpg",
+   "geo": false,
+   "sources": [
+    "http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
+   ]
+  },
+  {
+   "id": 161,
+   "name": "QTV-4",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/qdtv4.jpg",
+   "geo": false,
+   "sources": [
+    "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
+   ]
+  },
+  {
+   "id": 162,
+   "name": "QTV-5",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/qdtv5.jpg",
+   "geo": false,
+   "sources": [
+    "http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
+   ]
+  },
+  {
+   "id": 163,
+   "name": "QTV-6",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/qdtv6.jpg",
+   "geo": false,
+   "sources": [
+    "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
+   ]
+  },
+  {
+   "id": 164,
+   "name": "Qinghai TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Nyuxo8S.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8"
+   ]
+  },
+  {
+   "id": 165,
+   "name": "RTHK TV 31",
+   "group": "地方",
+   "logo": "https://i.imgur.com/kf818kM.png",
+   "geo": true,
+   "sources": [
+    "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"
+   ]
+  },
+  {
+   "id": 166,
+   "name": "RTHK TV 32",
+   "group": "地方",
+   "logo": "https://i.imgur.com/MXLuUoU.png",
+   "geo": true,
+   "sources": [
+    "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"
+   ]
+  },
+  {
+   "id": 167,
+   "name": "RTHK TV 33",
+   "group": "地方",
+   "logo": "https://i.imgur.com/2MProun.png",
+   "geo": true,
+   "sources": [
+    "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8"
+   ]
+  },
+  {
+   "id": 168,
+   "name": "SET iNews",
+   "group": "地方",
+   "logo": "https://i.imgur.com/NaOUWKf.png",
+   "geo": false,
+   "sources": [
+    "https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8"
+   ]
+  },
+  {
+   "id": 169,
+   "name": "SJTV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/PTsFn9B.png",
+   "geo": false,
+   "sources": [
+    "http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv"
+   ]
+  },
+  {
+   "id": 170,
+   "name": "Shandong TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/t3ICc4i.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8"
+   ]
+  },
+  {
+   "id": 171,
+   "name": "Shandong TV Agricultural Science Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/EY2zH06.png",
+   "geo": true,
+   "sources": [
+    "http://livealone302.iqilu.com/iqilu/nkpd.m3u8"
+   ]
+  },
+  {
+   "id": 172,
+   "name": "Shandong TV Life Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/bWPiC14.png",
+   "geo": true,
+   "sources": [
+    "http://livealone302.iqilu.com/iqilu/shpd.m3u8"
+   ]
+  },
+  {
+   "id": 173,
+   "name": "Shandong TV Qilu Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/U9wNMmm.png",
+   "geo": true,
+   "sources": [
+    "http://livealone302.iqilu.com/iqilu/qlpd.m3u8"
+   ]
+  },
+  {
+   "id": 174,
+   "name": "Shandong TV Variety Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/a2XK8N9.png",
+   "geo": true,
+   "sources": [
+    "http://livealone302.iqilu.com/iqilu/zypd.m3u8"
+   ]
+  },
+  {
+   "id": 175,
+   "name": "Sichuan TV Women and Children Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/1lGO0vY.png",
+   "geo": false,
+   "sources": [
+    "http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8"
+   ]
+  },
+  {
+   "id": 176,
+   "name": "Siping TV",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/sptv1.jpg",
+   "geo": false,
+   "sources": [
+    "http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598"
+   ]
+  },
+  {
+   "id": 177,
+   "name": "Supreme Master TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/kFMHayP.png",
+   "geo": false,
+   "sources": [
+    "https://lbs-us1.suprememastertv.com/720p.m3u8"
+   ]
+  },
+  {
+   "id": 178,
+   "name": "TDM Entertainment",
+   "group": "地方",
+   "logo": "https://i.imgur.com/7ml2bfx.png",
+   "geo": false,
+   "sources": [
+    "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 179,
+   "name": "TDM Ou Mun",
+   "group": "地方",
+   "logo": "https://i.imgur.com/qDI3aMp.png",
+   "geo": false,
+   "sources": [
+    "http://61.244.22.4/ch1/ch1.live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 180,
+   "name": "TDM-Macau Satellite",
+   "group": "地方",
+   "logo": "https://i.imgur.com/iIfZsD6.png",
+   "geo": false,
+   "sources": [
+    "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 181,
+   "name": "TTV",
+   "group": "地方",
+   "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png",
+   "geo": false,
+   "sources": [
+    "http://162.19.247.76:22222/live/taishi/index.m3u8"
+   ]
+  },
+  {
+   "id": 182,
+   "name": "TTV News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/AfkK0gv.png",
+   "geo": false,
+   "sources": [
+    "https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8"
+   ]
+  },
+  {
+   "id": 183,
+   "name": "TV BRICS Chinese",
+   "group": "地方",
+   "logo": "https://i.imgur.com/896132Z.png",
+   "geo": false,
+   "sources": [
+    "https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 184,
+   "name": "TV2 (Malaysia)",
+   "group": "地方",
+   "logo": "https://i.imgur.com/LGEdeyJ.png",
+   "geo": false,
+   "sources": [
+    "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d"
+   ]
+  },
+  {
+   "id": 185,
+   "name": "TVB News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Gwij0Fj.png",
+   "geo": false,
+   "sources": [
+    "http://r.jdshipin.com/CkuBd"
+   ]
+  },
+  {
+   "id": 186,
+   "name": "TVBS-Asia",
+   "group": "地方",
+   "logo": "https://i.imgur.com/4S1rkhm.png",
+   "geo": false,
+   "sources": [
+    "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 187,
+   "name": "Taiwan Indigenous TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/QqIdVqz.png",
+   "geo": false,
+   "sources": [
+    "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
+   ]
+  },
+  {
+   "id": 188,
+   "name": "Taiwan Plus TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/SfcZyqm.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8"
+   ]
+  },
+  {
+   "id": 189,
+   "name": "TechStorm",
+   "group": "地方",
+   "logo": "https://i.imgur.com/fAprFBJ.png",
+   "geo": true,
+   "sources": [
+    "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8"
+   ]
+  },
+  {
+   "id": 190,
+   "name": "Tianjin TV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Bg24eaH.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8"
+   ]
+  },
+  {
+   "id": 191,
+   "name": "VoA TV China",
+   "group": "地方",
+   "logo": "https://i.imgur.com/XCTZkoq.png",
+   "geo": false,
+   "sources": [
+    "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 192,
+   "name": "WCETV Digital Channel 31.8",
+   "group": "地方",
+   "logo": "https://i.imgur.com/l0UO27k.png",
+   "geo": false,
+   "sources": [
+    "https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8"
+   ]
+  },
+  {
+   "id": 193,
+   "name": "WXTV",
+   "group": "地方",
+   "logo": "https://i.imgur.com/s8tiTeb.png",
+   "geo": false,
+   "sources": [
+    "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
+   ]
+  },
+  {
+   "id": 194,
+   "name": "Xi'an Business Information Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/dzdiY4O.png",
+   "geo": false,
+   "sources": [
+    "http://stream2.xiancity.cn/xatv3/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 195,
+   "name": "Xi'an Silk Road Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/52i1Qnz.png",
+   "geo": false,
+   "sources": [
+    "http://stream2.xiancity.cn/xatv5/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 196,
+   "name": "Xinjiang TV 1",
+   "group": "地方",
+   "logo": "https://i.imgur.com/VLaQYn4.png",
+   "geo": false,
+   "sources": [
+    "https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8"
+   ]
+  },
+  {
+   "id": 197,
+   "name": "Xinjiang TV 2",
+   "group": "地方",
+   "logo": "https://i.imgur.com/GXFLqxx.png",
+   "geo": false,
+   "sources": [
+    "http://110.153.180.106:55555/out_3/index.m3u8"
+   ]
+  },
+  {
+   "id": 198,
+   "name": "Xinjiang TV 3",
+   "group": "地方",
+   "logo": "https://i.imgur.com/l8S5qQB.png",
+   "geo": false,
+   "sources": [
+    "http://110.153.180.106:55555/out_2/index.m3u8"
+   ]
+  },
+  {
+   "id": 199,
+   "name": "Xinjiang TV 5",
+   "group": "地方",
+   "logo": "https://i.imgur.com/PARupWK.png",
+   "geo": false,
+   "sources": [
+    "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0"
+   ]
+  },
+  {
+   "id": 200,
+   "name": "Xinjiang TV 8",
+   "group": "地方",
+   "logo": "https://i.imgur.com/JJw1Ndc.png",
+   "geo": false,
+   "sources": [
+    "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1"
+   ]
+  },
+  {
+   "id": 201,
+   "name": "Xizang TV Chinese",
+   "group": "地方",
+   "logo": "https://i.imgur.com/V0v3ST5.png",
+   "geo": false,
+   "sources": [
+    "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8"
+   ]
+  },
+  {
+   "id": 202,
+   "name": "Xizang TV Tibetan",
+   "group": "地方",
+   "logo": "https://i.imgur.com/NtvfnVV.png",
+   "geo": false,
+   "sources": [
+    "http://php.jdshipin.com:8880/xztv.php?id=zy"
+   ]
+  },
+  {
+   "id": 203,
+   "name": "Xuzhou Economic Life Channel",
+   "group": "地方",
+   "logo": "",
+   "geo": false,
+   "sources": [
+    "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8"
+   ]
+  },
+  {
+   "id": 204,
+   "name": "You Man Cartoon Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/GZInf2W.png",
+   "geo": false,
+   "sources": [
+    "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8"
+   ]
+  },
+  {
+   "id": 205,
+   "name": "meWATCH LIVE 1",
+   "group": "地方",
+   "logo": "https://i.imgur.com/ppxUDxB.png",
+   "geo": false,
+   "sources": [
+    "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd"
+   ]
+  },
+  {
+   "id": 206,
+   "name": "mnews",
+   "group": "地方",
+   "logo": "https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw",
+   "geo": false,
+   "sources": [
+    "https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8"
+   ]
+  },
+  {
+   "id": 207,
+   "name": "tvN Movies Asia",
+   "group": "地方",
+   "logo": "https://i.imgur.com/c4XvwO2.png",
+   "geo": false,
+   "sources": [
+    "http://210.210.155.37/dr9445/h/h21/index.m3u8"
+   ]
+  },
+  {
+   "id": 208,
+   "name": "东森财经新闻",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8"
+   ]
+  },
+  {
+   "id": 209,
+   "name": "中视新闻",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8"
+   ]
+  },
+  {
+   "id": 210,
+   "name": "信大",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8"
+   ]
+  },
+  {
+   "id": 211,
+   "name": "凤凰中文",
+   "group": "地方",
+   "logo": "https://live.fanmingming.com/tv/fenghuangzhongwen.png",
+   "geo": false,
+   "sources": [
+    "http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8"
+   ]
+  },
+  {
+   "id": 212,
+   "name": "凤凰资讯",
+   "group": "地方",
+   "logo": "https://live.fanmingming.com/tv/fenghuangzixun.png",
+   "geo": false,
+   "sources": [
+    "http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8"
+   ]
+  },
+  {
+   "id": 213,
+   "name": "华视HD",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8"
+   ]
+  },
+  {
+   "id": 214,
+   "name": "寰宇新闻台",
+   "group": "地方",
+   "logo": "https://i.imgur.com/jkOgbLw.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"
+   ]
+  },
+  {
+   "id": 215,
+   "name": "民视新闻HD",
+   "group": "地方",
+   "logo": "https://i.imgur.com/k4fhcPl.png",
+   "geo": false,
+   "sources": [
+    "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8"
+   ]
+  },
+  {
+   "id": 216,
+   "name": "浙江国际频道",
+   "group": "地方",
+   "logo": "https://i.imgur.com/XOL1Hph.png",
+   "geo": false,
+   "sources": [
+    "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
+   ]
+  },
+  {
+   "id": 217,
+   "name": "湖南国际频道",
+   "group": "地方",
+   "logo": "http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg",
+   "geo": false,
+   "sources": [
+    "http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8"
+   ]
+  },
+  {
+   "id": 218,
+   "name": "湖南娱乐频道",
+   "group": "地方",
+   "logo": "http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg",
+   "geo": false,
+   "sources": [
+    "http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8"
+   ]
+  },
+  {
+   "id": 219,
+   "name": "湖南爱晚",
+   "group": "地方",
+   "logo": "https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",
+   "geo": false,
+   "sources": [
+    "http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8"
+   ]
+  },
+  {
+   "id": 220,
+   "name": "湖南电视剧",
+   "group": "地方",
+   "logo": "https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png",
+   "geo": false,
+   "sources": [
+    "http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8"
+   ]
+  },
+  {
+   "id": 221,
+   "name": "湖南经视",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/hnjs.jpg",
+   "geo": false,
+   "sources": [
+    "https://p8.vzan.com/slowlive/415983998730568937/live.m3u8",
+    "http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8"
+   ]
+  },
+  {
+   "id": 222,
+   "name": "湖南都市",
+   "group": "地方",
+   "logo": "https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png",
+   "geo": false,
+   "sources": [
+    "http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8"
+   ]
+  },
+  {
+   "id": 223,
+   "name": "金鹰卡通",
+   "group": "地方",
+   "logo": "https://live.fanmingming.com/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",
+   "geo": false,
+   "sources": [
+    "http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8"
+   ]
+  },
+  {
+   "id": 224,
+   "name": "金鹰纪实频道",
+   "group": "地方",
+   "logo": "http://tv.haoqu99.com/d/file/2015/0417/20150417125839242.jpg",
+   "geo": false,
+   "sources": [
+    "http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8"
+   ]
+  },
+  {
+   "id": 225,
+   "name": "长沙新闻频道",
+   "group": "地方",
+   "logo": "http://tv.haoqu99.com/d/file/2021/0215/small7ff3d34c5627b5c263817abeff70e23d.gif",
+   "geo": false,
+   "sources": [
+    "http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8"
+   ]
+  },
+  {
+   "id": 226,
+   "name": "「B站」CS 2",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/21622811"
+   ]
+  },
+  {
+   "id": 227,
+   "name": "「B站」JJ斗地主",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/22021983"
+   ]
+  },
+  {
+   "id": 228,
+   "name": "「B站」QQ飞车•手游",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/21743919"
+   ]
+  },
+  {
+   "id": 229,
+   "name": "「B站」使命召唤•手游",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/22741849"
+   ]
+  },
+  {
+   "id": 230,
+   "name": "「B站」无畏契约",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/22908869"
+   ]
+  },
+  {
+   "id": 231,
+   "name": "「B站」热门赛事",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "http://dns.yiandrive.com:15907/bilibili/10"
+   ]
+  },
+  {
+   "id": 232,
+   "name": "「B站」王者荣耀 𝟙",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/55"
+   ]
+  },
+  {
+   "id": 233,
+   "name": "「B站」王者荣耀 𝟚",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/21654762"
+   ]
+  },
+  {
+   "id": 234,
+   "name": "「B站」第五人格",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/5555"
+   ]
+  },
+  {
+   "id": 235,
+   "name": "「B站」绝地求生",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/98"
+   ]
+  },
+  {
+   "id": 236,
+   "name": "「B站」英雄联盟",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/6"
+   ]
+  },
+  {
+   "id": 237,
+   "name": "「B站」英雄联盟•手游",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/哔哩哔哩.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/bilibili/23138275"
+   ]
+  },
+  {
+   "id": 238,
+   "name": "「斗鱼」DOTA2",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/3811559"
+   ]
+  },
+  {
+   "id": 239,
+   "name": "「斗鱼」FIFA",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/7692166"
+   ]
+  },
+  {
+   "id": 240,
+   "name": "「斗鱼」JJ斗地主",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/488743"
+   ]
+  },
+  {
+   "id": 241,
+   "name": "「斗鱼」QQ飞车•手游",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/5040227"
+   ]
+  },
+  {
+   "id": 242,
+   "name": "「斗鱼」云顶之弈",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/522423"
+   ]
+  },
+  {
+   "id": 243,
+   "name": "「斗鱼」使命召唤•手游",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/9223245"
+   ]
+  },
+  {
+   "id": 244,
+   "name": "「斗鱼」原神",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/10853239"
+   ]
+  },
+  {
+   "id": 245,
+   "name": "「斗鱼」和平精英",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/999"
+   ]
+  },
+  {
+   "id": 246,
+   "name": "「斗鱼」我的世界",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/738878"
+   ]
+  },
+  {
+   "id": 247,
+   "name": "「斗鱼」无畏契约",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/4585645"
+   ]
+  },
+  {
+   "id": 248,
+   "name": "「斗鱼」梦幻西游·手游",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/9163712"
+   ]
+  },
+  {
+   "id": 249,
+   "name": "「斗鱼」永劫无间",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/9662891"
+   ]
+  },
+  {
+   "id": 250,
+   "name": "「斗鱼」火影忍者",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/1997723"
+   ]
+  },
+  {
+   "id": 251,
+   "name": "「斗鱼」王者荣耀 𝟙",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/1863767"
+   ]
+  },
+  {
+   "id": 252,
+   "name": "「斗鱼」王者荣耀 𝟚",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/1984839"
+   ]
+  },
+  {
+   "id": 253,
+   "name": "「斗鱼」穿越火线 𝟙",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/605964"
+   ]
+  },
+  {
+   "id": 254,
+   "name": "「斗鱼」穿越火线 𝟚",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/5388537"
+   ]
+  },
+  {
+   "id": 255,
+   "name": "「斗鱼」第五人格",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/3226194"
+   ]
+  },
+  {
+   "id": 256,
+   "name": "「斗鱼」绝地求生",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/100"
+   ]
+  },
+  {
+   "id": 257,
+   "name": "「斗鱼」英雄联盟 𝟙",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/288016"
+   ]
+  },
+  {
+   "id": 258,
+   "name": "「斗鱼」英雄联盟 𝟚",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/424559"
+   ]
+  },
+  {
+   "id": 259,
+   "name": "「斗鱼」街霸",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/11437"
+   ]
+  },
+  {
+   "id": 260,
+   "name": "「斗鱼」跑跑卡丁车",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/7722576"
+   ]
+  },
+  {
+   "id": 261,
+   "name": "「斗鱼」跑跑卡丁车•手游",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/6672862"
+   ]
+  },
+  {
+   "id": 262,
+   "name": "「斗鱼」金铲铲之战",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/斗鱼.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/douyu/9715241"
+   ]
+  },
+  {
+   "id": 263,
+   "name": "「虎牙」CS 2",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/483917"
+   ]
+  },
+  {
+   "id": 264,
+   "name": "「虎牙」DOTA2",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660118"
+   ]
+  },
+  {
+   "id": 265,
+   "name": "「虎牙」使命召唤•手游",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/11718629"
+   ]
+  },
+  {
+   "id": 266,
+   "name": "「虎牙」和平精英",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660006"
+   ]
+  },
+  {
+   "id": 267,
+   "name": "「虎牙」无畏契约",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660679"
+   ]
+  },
+  {
+   "id": 268,
+   "name": "「虎牙」永劫无间",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660115"
+   ]
+  },
+  {
+   "id": 269,
+   "name": "「虎牙」王者荣耀 𝟙",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660002"
+   ]
+  },
+  {
+   "id": 270,
+   "name": "「虎牙」王者荣耀 𝟚",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660164"
+   ]
+  },
+  {
+   "id": 271,
+   "name": "「虎牙」穿越火线",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660101"
+   ]
+  },
+  {
+   "id": 272,
+   "name": "「虎牙」穿越火线•手游",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660102"
+   ]
+  },
+  {
+   "id": 273,
+   "name": "「虎牙」第五人格",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/idvesports"
+   ]
+  },
+  {
+   "id": 274,
+   "name": "「虎牙」绝地求生 𝟙",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660004"
+   ]
+  },
+  {
+   "id": 275,
+   "name": "「虎牙」绝地求生 𝟚",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660005"
+   ]
+  },
+  {
+   "id": 276,
+   "name": "「虎牙」英雄联盟 𝟙",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660000"
+   ]
+  },
+  {
+   "id": 277,
+   "name": "「虎牙」英雄联盟 𝟚",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660001"
+   ]
+  },
+  {
+   "id": 278,
+   "name": "「虎牙」逆战",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/nsl2021"
+   ]
+  },
+  {
+   "id": 279,
+   "name": "「虎牙」金铲铲之战",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/660579"
+   ]
+  },
+  {
+   "id": 280,
+   "name": "七龙珠「动漫」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/11601966"
+   ]
+  },
+  {
+   "id": 281,
+   "name": "七龙珠「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/25650806"
+   ]
+  },
+  {
+   "id": 282,
+   "name": "中华小当家「动漫」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/11342413"
+   ]
+  },
+  {
+   "id": 283,
+   "name": "互扇巴掌大赛「其他」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/20072873"
+   ]
+  },
+  {
+   "id": 284,
+   "name": "动漫•1「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/19757963"
+   ]
+  },
+  {
+   "id": 285,
+   "name": "咪咕直播 𝟙「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 286,
+   "name": "咪咕直播 𝟙𝟘「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 287,
+   "name": "咪咕直播 𝟙𝟙「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 288,
+   "name": "咪咕直播 𝟙𝟚「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 289,
+   "name": "咪咕直播 𝟙𝟛「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 290,
+   "name": "咪咕直播 𝟙𝟜「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 291,
+   "name": "咪咕直播 𝟙𝟝「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 292,
+   "name": "咪咕直播 𝟙𝟞「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 293,
+   "name": "咪咕直播 𝟙𝟟「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 294,
+   "name": "咪咕直播 𝟙𝟠「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 295,
+   "name": "咪咕直播 𝟙𝟡「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 296,
+   "name": "咪咕直播 𝟚「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 297,
+   "name": "咪咕直播 𝟚𝟘「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 298,
+   "name": "咪咕直播 𝟚𝟙「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 299,
+   "name": "咪咕直播 𝟚𝟚「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 300,
+   "name": "咪咕直播 𝟚𝟛「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 301,
+   "name": "咪咕直播 𝟚𝟜「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 302,
+   "name": "咪咕直播 𝟚𝟝「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 303,
+   "name": "咪咕直播 𝟚𝟞「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 304,
+   "name": "咪咕直播 𝟚𝟟「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 305,
+   "name": "咪咕直播 𝟚𝟠「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 306,
+   "name": "咪咕直播 𝟚𝟡「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 307,
+   "name": "咪咕直播 𝟛「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 308,
+   "name": "咪咕直播 𝟛𝟘「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 309,
+   "name": "咪咕直播 𝟛𝟙「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 310,
+   "name": "咪咕直播 𝟛𝟚「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 311,
+   "name": "咪咕直播 𝟛𝟛「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 312,
+   "name": "咪咕直播 𝟛𝟜「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 313,
+   "name": "咪咕直播 𝟛𝟝「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 314,
+   "name": "咪咕直播 𝟛𝟞「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 315,
+   "name": "咪咕直播 𝟜「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn//index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 316,
+   "name": "咪咕直播 𝟜𝕂-𝟙「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界4K.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 317,
+   "name": "咪咕直播 𝟜𝕂-𝟚「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界4K.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 318,
+   "name": "咪咕直播 𝟝「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 319,
+   "name": "咪咕直播 𝟞「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 320,
+   "name": "咪咕直播 𝟟「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 321,
+   "name": "咪咕直播 𝟠「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 322,
+   "name": "咪咕直播 𝟡「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/咪视界.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 323,
+   "name": "哆啦A梦「动漫」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/11601963"
+   ]
+  },
+  {
+   "id": 324,
+   "name": "恐怖电影「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/23419131"
+   ]
+  },
+  {
+   "id": 325,
+   "name": "挨饿德•1「其他」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/20985858"
+   ]
+  },
+  {
+   "id": 326,
+   "name": "挨饿德•2「其他」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/17693860"
+   ]
+  },
+  {
+   "id": 327,
+   "name": "止戈电影「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/19863777"
+   ]
+  },
+  {
+   "id": 328,
+   "name": "治愈•放松「音乐」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/21241811"
+   ]
+  },
+  {
+   "id": 329,
+   "name": "漫威「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/17089779"
+   ]
+  },
+  {
+   "id": 330,
+   "name": "猫和老鼠「动漫」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/11352879"
+   ]
+  },
+  {
+   "id": 331,
+   "name": "电影•1「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/20289754"
+   ]
+  },
+  {
+   "id": 332,
+   "name": "电影•2「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/24983280"
+   ]
+  },
+  {
+   "id": 333,
+   "name": "电影•3「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/24396428"
+   ]
+  },
+  {
+   "id": 334,
+   "name": "电视剧•1「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/21277391"
+   ]
+  },
+  {
+   "id": 335,
+   "name": "电视剧•2「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/25018873"
+   ]
+  },
+  {
+   "id": 336,
+   "name": "睛彩广场舞「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/睛彩广场舞.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 337,
+   "name": "睛彩竞技「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/睛彩竞技.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 338,
+   "name": "睛彩篮球「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/睛彩篮球.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 339,
+   "name": "睛彩青少「移动」",
+   "group": "咪咕/其他",
+   "logo": "https://iptv.yang-1989.xyz/logo/睛彩青少.webp",
+   "geo": false,
+   "sources": [
+    "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989"
+   ]
+  },
+  {
+   "id": 340,
+   "name": "美剧「解说」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/20488841"
+   ]
+  },
+  {
+   "id": 341,
+   "name": "航海王「动漫」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/16913382"
+   ]
+  },
+  {
+   "id": 342,
+   "name": "茶啊二中「动画」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/11213191"
+   ]
+  },
+  {
+   "id": 343,
+   "name": "荒野求生「其他」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/593667"
+   ]
+  },
+  {
+   "id": 344,
+   "name": "跳舞「其他」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/24634408"
+   ]
+  },
+  {
+   "id": 345,
+   "name": "野行者「其他」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/20072663"
+   ]
+  },
+  {
+   "id": 346,
+   "name": "阅读•学习「音乐」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/21241813"
+   ]
+  },
+  {
+   "id": 347,
+   "name": "音乐石榴「音乐」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/17091681"
+   ]
+  },
+  {
+   "id": 348,
+   "name": "音乐速递「音乐」",
+   "group": "咪咕/其他",
+   "logo": "https://epg.yang-1989.xyz/logo/虎牙.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.ttvb.eu.org/huya/19439762"
+   ]
+  },
+  {
+   "id": 349,
+   "name": "Anshun Comprehensive News Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
+   "geo": false,
+   "sources": [
+    "https://hplayer1.juyun.tv/camera/154379194.m3u8"
+   ]
+  },
+  {
+   "id": 350,
+   "name": "BRTV Kaku Childrens Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/t8X4wPZ.png",
+   "geo": false,
+   "sources": [
+    "http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8"
+   ]
+  },
+  {
+   "id": 351,
+   "name": "BabyFirst",
+   "group": "地方",
+   "logo": "https://i.imgur.com/WxLHBwu.png",
+   "geo": false,
+   "sources": [
+    "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8"
+   ]
+  },
+  {
+   "id": 352,
+   "name": "CETV-1",
+   "group": "地方",
+   "logo": "https://i.imgur.com/6sOHLq8.png",
+   "geo": false,
+   "sources": [
+    "http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV"
+   ]
+  },
+  {
+   "id": 353,
+   "name": "CETV-2",
+   "group": "地方",
+   "logo": "https://i.imgur.com/ZD8XPmw.png",
+   "geo": false,
+   "sources": [
+    "http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV"
+   ]
+  },
+  {
+   "id": 354,
+   "name": "CGTN",
+   "group": "地方",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
+   "geo": false,
+   "sources": [
+    "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+   ]
+  },
+  {
+   "id": 355,
+   "name": "CHC Action",
+   "group": "地方",
+   "logo": "https://i.imgur.com/AuiVcyh.png",
+   "geo": false,
+   "sources": [
+    "http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
+   ]
+  },
+  {
+   "id": 356,
+   "name": "CND Film Middle School Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/4uG8HsQ.png",
+   "geo": false,
+   "sources": [
+    "http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U="
+   ]
+  },
+  {
+   "id": 357,
+   "name": "CTS News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/V1EVtRm.png",
+   "geo": true,
+   "sources": [
+    "http://seb.sason.top/sc/hsxw_fhd.m3u8"
+   ]
+  },
+  {
+   "id": 358,
+   "name": "Celestial Movies",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Mb5ssnu.png",
+   "geo": false,
+   "sources": [
+    "http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8",
+    "http://210.210.155.37/dr9445/h/h14/index.m3u8"
+   ]
+  },
+  {
+   "id": 359,
+   "name": "Chifeng Comprehensive News Chanel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg",
+   "geo": false,
+   "sources": [
+    "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8"
+   ]
+  },
+  {
+   "id": 360,
+   "name": "Chuxiong News Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg",
+   "geo": false,
+   "sources": [
+    "http://hwapi.yntv.net/ew265l/848y54.m3u8"
+   ]
+  },
+  {
+   "id": 361,
+   "name": "Chuzhou News Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/9JfZJRv.png",
+   "geo": false,
+   "sources": [
+    "http://live.cztv.cc:85/live/xwpd.m3u8"
+   ]
+  },
+  {
+   "id": 362,
+   "name": "DHA",
+   "group": "地方",
+   "logo": "https://i.imgur.com/VZhag2x.png",
+   "geo": false,
+   "sources": [
+    "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 363,
+   "name": "Dongguan Comprehensive News Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/dgtv1.jpg",
+   "geo": false,
+   "sources": [
+    "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8"
+   ]
+  },
+  {
+   "id": 364,
+   "name": "EBC Financial News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/uFDkOhV.png",
+   "geo": false,
+   "sources": [
+    "http://seb.sason.top/sc/dscjxw_fhd.m3u8"
+   ]
+  },
+  {
+   "id": 365,
+   "name": "EBC Foreign Movie",
+   "group": "地方",
+   "logo": "https://i.imgur.com/oUhYdea.png",
+   "geo": false,
+   "sources": [
+    "http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv"
+   ]
+  },
+  {
+   "id": 366,
+   "name": "EBC News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/QFZs80p.png",
+   "geo": false,
+   "sources": [
+    "http://seb.sason.top/sc/dsxw_fhd.m3u8"
+   ]
+  },
+  {
+   "id": 367,
+   "name": "FTV Taiwan",
+   "group": "地方",
+   "logo": "https://i.imgur.com/p108I5g.png",
+   "geo": false,
+   "sources": [
+    "http://seb.sason.top/ptv/ftv.php?id=tw"
+   ]
+  },
+  {
+   "id": 368,
+   "name": "Harbin Comprehensive News Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+   "geo": false,
+   "sources": [
+    "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
+   ]
+  },
+  {
+   "id": 369,
+   "name": "Harbin Movie Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+   "geo": false,
+   "sources": [
+    "https://stream.hrbtv.net/yspd/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 370,
+   "name": "Hebi News Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Osw5yRW.png",
+   "geo": false,
+   "sources": [
+    "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8"
+   ]
+  },
+  {
+   "id": 371,
+   "name": "HomePlus",
+   "group": "地方",
+   "logo": "",
+   "geo": false,
+   "sources": [
+    "https://homeplushls.wns.live/hls/stream.m3u8"
+   ]
+  },
+  {
+   "id": 372,
+   "name": "Hunan News Channel",
+   "group": "地方",
+   "logo": "https://static.tvtropes.org/pmwiki/pub/images/hunantv_logo.png",
+   "geo": true,
+   "sources": [
+    "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8"
+   ]
+  },
+  {
+   "id": 373,
+   "name": "Jiangsu Educational Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jsjy.jpg",
+   "geo": false,
+   "sources": [
+    "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8"
+   ]
+  },
+  {
+   "id": 374,
+   "name": "Jiangsu Movie Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jsys.jpg",
+   "geo": false,
+   "sources": [
+    "http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8"
+   ]
+  },
+  {
+   "id": 375,
+   "name": "Jiangsu Sports & Leisure Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jsty.jpg",
+   "geo": false,
+   "sources": [
+    "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY"
+   ]
+  },
+  {
+   "id": 376,
+   "name": "Jiangxi Movie Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jiangxi.jpg",
+   "geo": false,
+   "sources": [
+    "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8"
+   ]
+  },
+  {
+   "id": 377,
+   "name": "Jilin Movie Channel",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/jlyspd.jpg",
+   "geo": false,
+   "sources": [
+    "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8"
+   ]
+  },
+  {
+   "id": 378,
+   "name": "Jiuquan TV News Comprehensive Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/mPkG8Gi.png",
+   "geo": false,
+   "sources": [
+    "http://117.156.28.119/270000001111/1110000001/index.m3u8"
+   ]
+  },
+  {
+   "id": 379,
+   "name": "Lanzhou Comprehensive News Channel",
+   "group": "地方",
+   "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662",
+   "geo": false,
+   "sources": [
+    "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8"
+   ]
+  },
+  {
+   "id": 380,
+   "name": "Mei Ah Movie Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/laGiFM1.png",
+   "geo": false,
+   "sources": [
+    "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8"
+   ]
+  },
+  {
+   "id": 381,
+   "name": "Phoenix InfoNews Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/mt4h3VO.png",
+   "geo": false,
+   "sources": [
+    "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+   ]
+  },
+  {
+   "id": 382,
+   "name": "Pingxiang TV News Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Kc7htop.jpg",
+   "geo": false,
+   "sources": [
+    "http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8"
+   ]
+  },
+  {
+   "id": 383,
+   "name": "QTV-1",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/qdtv1.jpg",
+   "geo": false,
+   "sources": [
+    "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8"
+   ]
+  },
+  {
+   "id": 384,
+   "name": "QTV-3",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
+   "geo": false,
+   "sources": [
+    "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
+   ]
+  },
+  {
+   "id": 385,
+   "name": "SET News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/EGVbAvJ.png",
+   "geo": true,
+   "sources": [
+    "http://seb.sason.top/sc/sllive_fhd.m3u8"
+   ]
+  },
+  {
+   "id": 386,
+   "name": "Shandong TV Children's Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/ph7YKNa.png",
+   "geo": true,
+   "sources": [
+    "http://livealone302.iqilu.com/iqilu/sepd.m3u8"
+   ]
+  },
+  {
+   "id": 387,
+   "name": "Shandong TV Sports Channel",
+   "group": "地方",
+   "logo": "https://i.imgur.com/zX4RxvG.png",
+   "geo": true,
+   "sources": [
+    "http://livealone302.iqilu.com/iqilu/typd.m3u8"
+   ]
+  },
+  {
+   "id": 388,
+   "name": "TDM Information",
+   "group": "地方",
+   "logo": "https://i.imgur.com/h7HfsLx.png",
+   "geo": false,
+   "sources": [
+    "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 389,
+   "name": "TDM Sports",
+   "group": "地方",
+   "logo": "https://i.imgur.com/AsWLf8S.png",
+   "geo": false,
+   "sources": [
+    "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": 390,
+   "name": "TVBS News",
+   "group": "地方",
+   "logo": "https://i.imgur.com/171lwfg.png",
+   "geo": true,
+   "sources": [
+    "http://seb.sason.top/sc/tvbsxw_fhd.m3u8"
+   ]
+  },
+  {
+   "id": 391,
+   "name": "Thrill",
+   "group": "地方",
+   "logo": "https://i.imgur.com/Y282owj.png",
+   "geo": false,
+   "sources": [
+    "https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd"
+   ]
+  },
+  {
+   "id": 392,
+   "name": "Tonghua TV",
+   "group": "地方",
+   "logo": "https://www.tvchinese.net/uploads/tv/thtv1.jpg",
+   "geo": false,
+   "sources": [
+    "http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8"
+   ]
+  }
+ ]
+}

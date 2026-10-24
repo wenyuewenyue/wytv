@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>WyTV · 电视直播</title>
+<meta name="description" content="WyTV：聚合公开直播源的个人电视直播站，央视、卫视、地方台尽量全，播不了自动换线路，可自己导入源。">
+<style>
+:root{--bg:#0b0f14;--card:#141b24;--line:#223042;--txt:#e8eef5;--mut:#93a4b8;--acc:#ff5a3c}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+header{padding:14px 16px 8px}h1{margin:0;font-size:22px}h1 span{color:var(--acc)}p.sub{margin:6px 0 0;color:var(--mut);font-size:13px;line-height:1.6}
+main{max-width:1100px;margin:0 auto;padding:0 12px 40px}
+.player{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0}
+video{width:100%;aspect-ratio:16/9;background:#000;border-radius:12px;border:1px solid var(--line)}
+.now{margin:10px 2px 0;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.now b{font-size:17px}.pill{font-size:12px;border:1px solid var(--line);border-radius:99px;padding:4px 9px;color:var(--mut);background:var(--card)}
+button{cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--txt);border-radius:9px;padding:8px 12px;font-size:14px}
+button.active{background:var(--acc);border-color:var(--acc);color:#fff}
+button.warn{border-color:#7a4a00;color:#ffcf7a}
+.controls{display:flex;gap:8px;flex-wrap:wrap;margin:10px 2px 0}
+input,textarea{width:100%;background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:10px;padding:10px;font-size:14px}
+.tabs{display:flex;gap:6px;overflow-x:auto;padding:10px 2px}
+.tabs button{white-space:nowrap}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin-top:6px}
+.ch{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;text-align:left}
+.ch.active{border-color:var(--acc);outline:1px solid var(--acc)}
+.ch .logo{height:28px;max-width:100%;object-fit:contain;display:block;margin-bottom:6px}
+.ch .nm{font-size:14px;line-height:1.4}.ch .meta{font-size:12px;color:var(--mut);margin-top:4px}
+.status{font-size:13px;color:var(--mut);line-height:1.7;margin:8px 2px}
+.status b{color:var(--txt)}details{margin:12px 2px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
+details summary{cursor:pointer;font-weight:600}details p{color:var(--mut);font-size:13px;line-height:1.7}
+small{color:var(--mut)}a{color:#7fb7ff}
+@media(min-width:900px){.layout{display:grid;grid-template-columns:1.7fr 1fr;gap:18px}.player{position:static}.grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr))}}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13/dist/hls.min.js"></script>
+</head>
+<body>
+<header>
+<h1>WyTV <span>· 电视直播</span></h1>
+<p class="sub">尽量全的个人直播站：内置 <b id="total">…</b> 个台，央视 / 卫视 / 地方 / 咪咕分组；播不了会自动换线路，实在播不了就走代理；找不到的台可以自己导入源。只聚合公开直播链接，不存节目内容，仅供个人观看。</p>
+</header>
+<main>
+<div class="layout">
+<div>
+<div class="player">
+<video id="video" controls playsinline preload="none" poster=""></video>
+<div class="now"><b id="nowName">点一个台开始看</b><span class="pill" id="nowGroup"></span><button id="favBtn" title="收藏">☆ 收藏</button></div>
+<div class="controls" id="lineBtns"></div>
+<div class="status" id="status">正在加载频道列表…</div>
+</div>
+</div>
+<div>
+<input id="search" placeholder="搜台名，比如：湖南、广东、新闻、少儿…">
+<div class="tabs" id="tabs"></div>
+<div class="grid" id="grid"></div>
+<p class="status" id="countLine"></p>
+<details>
+<summary>＋ 自己导入源（找不到的台就用这个补）</summary>
+<p>粘贴一个 m3u / txt 订阅链接，或者直接粘贴 m3u 内容，点导入后会出现在“我的导入”分组，只存在你这台设备上（localStorage），不会上传。</p>
+<input id="importUrl" placeholder="订阅链接，例如 https://…/xxx.m3u（可留空，只粘内容）" style="margin-bottom:8px">
+<textarea id="importText" rows="5" placeholder="#EXTM3U&#10;#EXTINF:-1,我的台&#10;https://…/xxx.m3u8"></textarea>
+<div style="margin-top:8px;display:flex;gap:8px"><button id="importBtn">导入</button><button id="clearImportBtn">清空我的导入</button></div>
+<p id="importMsg"></p>
+</details>
+<details>
+<summary>为什么有的台播不了？</summary>
+<p>① 那个源本身死了 / 404 / 403 / 地区封锁 —— 本站会标“可能地区限制”，换线路或换台；② 源是 http 或没有 CORS，浏览器直连会被拦 —— 本站会自动改走本站代理（只转清单和分片，不存内容）；③ 付费、赛事版权、运营商内网台 —— 网页端无解，点台名旁的提示后请用官方 App / 运营商 IPTV 看。频道名单每天都可能变，内置名单 + 测活 + 自导入是目前网页端能做到的上限。</p>
+</details>
+</div>
+</div>
+</main>
+<script src="app.js?v=1"></script>
+</body>
+</html>
