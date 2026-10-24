@@ -1,4 +1,4 @@
-# WyTV · 电视直播（个人用）
+# WyTV · 电视直播
 
 Cloudflare Pages 纯静态站 + Pages Functions 代理（`functions/api/proxy.js`）。
 
@@ -7,6 +7,6 @@ Cloudflare Pages 纯静态站 + Pages Functions 代理（`functions/api/proxy.js
 - 自导入：页面底部粘贴 m3u/txt 链接或内容，存 localStorage，只在自己设备上。
 - 频道更新：重新跑一次频道聚合脚本生成新的 `channels.json` 并重新部署即可（后续可接 GitHub Actions 定时测活）。
 
-部署（与 wyphoto/wygemini 同一路）：GitHub 仓库 `wenyuewenyue/wytv`（main，无构建，输出 `/`）→ Cloudflare Pages 项目 `wytv` → 自定义域名 `wytv.2221314.xyz`。
+部署（与 wyphoto/wygemini 同一路）：GitHub 仓库 `wenyuewenyue/wytv`（main，无构建，输出 `/`）→ Cloudflare Pages 项目 `wytv` → 自定义域名 `wyzhibo.2221314.xyz`（Parker 2026-10-24 22:23 改定，原拟 wytv.2221314.xyz 作废）。
 
-注意：只聚合公开直播链接，不存储节目内容；付费、赛事版权、地区锁定、运营商内网台在网页端无解，请用官方 App / 运营商 IPTV。Workers/Pages Functions 免费额度只够个人用，不要公开大规模分发。
+注意：只聚合公开直播链接，不存储节目内容，版权归各电视台所有；付费、赛事版权、地区锁定、运营商内网台在网页端无解，请用官方 App / 运营商 IPTV。
