@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-24-proxyfix",
- "count": 392,
+ "count": 398,
  "channels": [
   {
    "id": 1,
@@ -364,6 +364,7 @@
    "logo": "https://i.imgur.com/UKKsnhD.png",
    "geo": false,
    "sources": [
+    "https://srs.iyb983.cn/video/CYS/index.m3u8",
     "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8"
    ]
   },
@@ -535,6 +536,8 @@
    "logo": "https://i.imgur.com/NFFQNhq.png",
    "geo": false,
    "sources": [
+    "https://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
+    "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
     "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8",
     "http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1792724570-9aee3d697ed2da66093f27d871240c8d-0-a8acd5863800fa050d489432df111e08"
    ]
@@ -3945,6 +3948,66 @@
    "sources": [
     "http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8"
    ]
+  },
+  {
+   "name": "CGTN英语",
+   "group": "央视",
+   "sources": [
+    "https://0472.org/hls/cgtn.m3u8"
+   ],
+   "logo": "https://i.imgur.com/gBbLyqh.png",
+   "id": 393,
+   "geo": false
+  },
+  {
+   "name": "CGTN纪录",
+   "group": "央视",
+   "sources": [
+    "https://0472.org/hls/cgtnd.m3u8"
+   ],
+   "logo": "https://i.imgur.com/gBbLyqh.png",
+   "id": 394,
+   "geo": false
+  },
+  {
+   "name": "CGTN俄语",
+   "group": "央视",
+   "sources": [
+    "https://0472.org/hls/cgtne.m3u8"
+   ],
+   "logo": "https://i.imgur.com/gBbLyqh.png",
+   "id": 395,
+   "geo": false
+  },
+  {
+   "name": "CGTN法语",
+   "group": "央视",
+   "sources": [
+    "https://0472.org/hls/cgtnf.m3u8"
+   ],
+   "logo": "https://i.imgur.com/gBbLyqh.png",
+   "id": 396,
+   "geo": false
+  },
+  {
+   "name": "CGTN西语",
+   "group": "央视",
+   "sources": [
+    "https://0472.org/hls/cgtnx.m3u8"
+   ],
+   "logo": "https://i.imgur.com/gBbLyqh.png",
+   "id": 397,
+   "geo": false
+  },
+  {
+   "name": "CGTN阿语",
+   "group": "央视",
+   "sources": [
+    "https://0472.org/hls/cgtna.m3u8"
+   ],
+   "logo": "https://i.imgur.com/gBbLyqh.png",
+   "id": 398,
+   "geo": false
   }
  ]
 }
