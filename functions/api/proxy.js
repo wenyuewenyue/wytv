@@ -1,4 +1,4 @@
-// WyTV proxy: ONLY for personal use. Proxies m3u8 playlists (rewriting
+// WyTV proxy: proxies m3u8 playlists (rewriting
 // relative segment URLs back through this proxy) and media segments,
 // so http / no-CORS sources can play from an https Pages site.
 // It does NOT store, transcode or re-distribute content; the browser
